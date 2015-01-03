@@ -1,0 +1,14 @@
+# Site settings
+title: 63Digital Blog
+email: alastair@63digital.com
+description: > # this means to ignore newlines until "baseurl:"
+  63Digital's Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 63Digital
+github_username:  19nine78
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
